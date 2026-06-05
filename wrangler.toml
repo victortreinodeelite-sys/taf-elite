@@ -2,3 +2,7 @@ name = "taf-elite"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".open-next"
+
+[vars]
+NEXT_PUBLIC_SUPABASE_URL = "https://gxbosghqjsmeckqrppvh.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4Ym9zZ2hxanNtZWNrcXJwcHZoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA2MTkzNTAsImV4cCI6MjA5NjE5NTM1MH0.e6ok8mr2AcoS6z6Q9SGXZqM-1n7NObOJGG8o-Cn76MY"
